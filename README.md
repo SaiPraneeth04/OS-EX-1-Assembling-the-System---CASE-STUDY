@@ -52,14 +52,13 @@ To Assemble the Computer System
 ![OUTPUT](/os_1.15.png)
 
 3.Turn on the computer. Press the computer's Power button on the front or back of the case. If everything's properly connected, the computer should start up.
-![OUTPUT]()
+![OUTPUT](/os_1.16.png)
 
 4.Install Windows or Linux. Windows is compatible with all PCs and will make full use of their various features (e.g., Bluetooth), but will have to purchase a copy of Windows if not having a product key. Linux is free but may not be able to use all the computer's hardware. a. If not having an installation USB drive, need to create one on another computer before can install the operating system.
 
-![OUTPUT](/os_1.16.png)
+![OUTPUT](/os_1.17.png)
 
 5.Install the drivers. Once the operating system is installed, need to install the drivers. Almost all the hardware that was purchased should come with discs that contain the driver software needed for the hardware to work. • Modern versions of Windows and Linux will install most drivers automatically when connected to the Internet.
-![OUTPUT](/os_1.17.png)
 
 
 ### RESULT:
